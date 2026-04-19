@@ -1,4 +1,3 @@
--- lua/my_memo/init.lua
 
 local M = {}
 
